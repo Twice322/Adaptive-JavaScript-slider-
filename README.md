@@ -1,6 +1,8 @@
-# Adaptive-JavaScript-slider-
-Adaptive JavaScript slider 
+<h1>Adaptive JavaScript slider</h1>
+
+Adaptive JavaScript slider using HTML CSS JS FLEXBOX + JS animation
 
 
 
-![Alt text](https://ibb.co/cXfJxXh "Optional title")
+
+![](https://i.ibb.co/gFqy6FZ/S-T7-MLCYWmo.jpg)
