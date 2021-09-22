@@ -2,4 +2,5 @@
 Adaptive JavaScript slider 
 
 
-https://ibb.co/cXfJxXh
+
+![Alt text](https://ibb.co/cXfJxXh "Optional title")
